@@ -52,4 +52,4 @@ I've included 2 screen as I mentioned before to complete the app requirements (M
 Also I will try to finish the above missing requirements on another branch, then I will update this README as well so you can take a look on what I will do.
 
 # Mockups:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Mockups")
+![alt text](https://raw.githubusercontent.com/mfathy/La-Delice-Android/master/art/1531695753932.jpg "Mockups")

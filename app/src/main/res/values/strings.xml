@@ -1,8 +1,37 @@
 <resources>
-    <string name="app_name">La Delice Restaurant</string>
+    <string name="app_name">LA DELICE</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+    <string name="label_pastry_shop">PASTRY SHOP</string>
+
+    <string name="label_about">About Us</string>
+    <string name="desc_about">Established 28 years ago in beautiful Lorne Park, Mississauga, Le Délice Pastry Shop creates deliciously decadent French-inspired cakes and pastries.
+
+We specialize in fresh, handmade cakes, pies, croissants, tarts and squares, but we are especially loved for our cookies and delicious chunky chicken pies.
+
+We only use fresh whole eggs, sweet butter, 35% whipping cream and the very best Belgian chocolate.
+
+We have been part of all the memories since 88′ and will continue to be there for you.</string>
+    <string name="label_recipes">Menu</string>
+    <string name="desc_recipes">We specialize in fresh, handmade cakes, pies, croissants, tarts and squares, but we are especially loved for our cookies and delicious chunky chicken pies.
+
+We only use fresh whole eggs, sweet butter, 35% whipping cream and the very best Belgian chocolate.
+
+We have been part of all the memories since 88′ and will continue to be there for you.</string>
+    <string name="label_call">Contact</string>
+    <string name="desc_call">Le Délice Pastry Shop map
+(in the Centennial Plaza)
+1150 Lorne Park Road
+Mississauga, Ontario
+L5H 3A5</string>
+
+
+    <string name="item_image">item_image</string>
+    <string name="item_title">item_title</string>
+    <string name="item_description">item_description</string>
+    <string name="phone">+966548025732</string>
+    <string name="email">dev.mfathy@gmail.com</string>
 </resources>

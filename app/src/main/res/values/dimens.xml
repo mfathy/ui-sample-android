@@ -3,6 +3,29 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="nav_header_vertical_spacing">8dp</dimen>
-    <dimen name="nav_header_height">176dp</dimen>
-    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="nav_header_height">150dp</dimen>
+    <dimen name="title_margin">-50dp</dimen>
+
+    <dimen name="font_size_10sp">10sp</dimen>
+    <dimen name="font_size_15sp">15sp</dimen>
+    <dimen name="font_size_20sp">20sp</dimen>
+    <dimen name="font_size_25sp">25sp</dimen>
+    <dimen name="font_size_30sp">30sp</dimen>
+    <dimen name="font_size_40sp">40sp</dimen>
+    <dimen name="font_size_45sp">45sp</dimen>
+
+    <dimen name="app_bar_height">200dp</dimen>
+    <dimen name="cardView_width">275dp</dimen>
+    <dimen name="home_item_height">360dp</dimen>
+
+    <dimen name="listPreferredItemHeightSmall">55dp</dimen>
+    <dimen name="menu_image_size">100dp</dimen>
+    <dimen name="controlLayoutSize">30dp</dimen>
+    <dimen name="item_menu_height">110dp</dimen>
+    <dimen name="recipe_title_margin">16dp</dimen>
+    <dimen name="recipe_title_top_margin">12dp</dimen>
+    <dimen name="image_call_margin">20dp</dimen>
+    <dimen name="image_call_top_margin">50dp</dimen>
+    <dimen name="image_call_padding">10dp</dimen>
+    <dimen name="btn_close_size">28dp</dimen>
 </resources>

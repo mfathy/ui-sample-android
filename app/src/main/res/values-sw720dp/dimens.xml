@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">26dp</dimen>
+    <dimen name="activity_vertical_margin">26dp</dimen>
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">220dp</dimen>
+    <dimen name="title_margin">-100dp</dimen>
+
+    <dimen name="font_size_10sp">18sp</dimen>
+    <dimen name="font_size_15sp">25sp</dimen>
+    <dimen name="font_size_20sp">35sp</dimen>
+    <dimen name="font_size_25sp">45sp</dimen>
+    <dimen name="font_size_30sp">55sp</dimen>
+    <dimen name="font_size_40sp">65sp</dimen>
+    <dimen name="font_size_45sp">70sp</dimen>
+
+    <dimen name="app_bar_height">350dp</dimen>
+    <dimen name="cardView_width">500dp</dimen>
+    <dimen name="home_item_height">560dp</dimen>
+
+    <dimen name="listPreferredItemHeightSmall">75dp</dimen>
+    <dimen name="menu_image_size">180dp</dimen>
+    <dimen name="controlLayoutSize">45dp</dimen>
+    <dimen name="item_menu_height">190dp</dimen>
+    <dimen name="recipe_title_top_margin">12dp</dimen>
+    <dimen name="image_call_margin">40dp</dimen>
+    <dimen name="image_call_top_margin">70dp</dimen>
+    <dimen name="image_call_padding">20dp</dimen>
+    <dimen name="btn_close_size">40dp</dimen>
+</resources>

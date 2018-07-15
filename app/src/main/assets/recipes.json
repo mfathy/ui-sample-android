@@ -1,0 +1,30 @@
+[
+  {
+    "recipe_id": 0,
+    "recipe_name": "Strawberry Mango",
+    "recipe_description": "Strawberry & Mango mousses between layers of almond meringue",
+    "recipe_url": "http://ledelicepastryshop.ca/wp-content/uploads/2016/06/STRAWMANGO.jpg",
+    "recipe_price": 9.99
+  },
+  {
+    "recipe_id": 1,
+    "recipe_name": "Lemon Chiffon",
+    "recipe_description": "Thin layers of white cake pinwheels on the sides, with tart and creamy lemon mousse inside. . “It’s very popular!”",
+    "recipe_url": "http://ledelicepastryshop.ca/wp-content/uploads/2016/09/ACOR3022.jpg",
+    "recipe_price": 9.99
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "Strawberry Shortcake",
+    "recipe_description": "Layers of meringue, vanilla cake, and whipping cream folded with fresh strawberries. “It’s delicious!”",
+    "recipe_url": "http://ledelicepastryshop.ca/wp-content/uploads/2016/06/STRAWSHORTCAKE.jpg",
+    "recipe_price": 9.99
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "Fruit Cheese Cake",
+    "recipe_description": "Very thick and rich with a graham cracker crust covered with juicy fresh fruit (ex. strawberries, clementine, raspberries, kiwi) “It’s excellent!”",
+    "recipe_url": "http://ledelicepastryshop.ca/wp-content/uploads/2016/04/fruitcheese.jpg",
+    "recipe_price": 9.99
+  }
+]

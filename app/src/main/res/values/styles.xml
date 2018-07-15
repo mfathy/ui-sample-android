@@ -6,6 +6,8 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:windowContentTransitions">true</item>
     </style>
 
     <style name="AppTheme.NoActionBar">
@@ -16,5 +18,23 @@
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="TransparentCompat" parent="AppTheme.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+    </style>
+
+    <style name="AppTheme.Drawer">
+        <item name="android:textSize">@dimen/font_size_15sp</item><!-- text size in menu-->
+        <item name="android:fontFamily">@font/arsenal_regular</item>
+        <item name="android:listPreferredItemHeightSmall">@dimen/listPreferredItemHeightSmall
+        </item><!-- item size in menu-->
+        <item name="listPreferredItemHeightSmall">@dimen/listPreferredItemHeightSmall
+        </item><!-- item size in menu-->
+    </style>
+
 
 </resources>

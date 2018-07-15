@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">@color/colorVoodoo</color>
+    <color name="colorPrimaryDark">@color/colorVoodoo</color>
+    <color name="colorAccent">@color/colorLaser</color>
+
+    <color name="colorTransparent">@android:color/transparent</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorWhiteSmoke">#EFEFEF</color>
+    <color name="colorVoodoo">#444143</color>
+    <color name="colorGreyNurse">#D0D1CD</color>
+    <color name="colorBronco">#A5937A</color>
+    <color name="colorLaser">#C4A863</color>
+    <color name="colorParchment">#CBC4A9</color>
+    <color name="colorRed">#e7233d</color>
+    <color name="colorLightBlack">#7d000000</color>
+
 </resources>

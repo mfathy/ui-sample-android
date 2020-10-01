@@ -1,4 +1,4 @@
-# La-Delice-Android
+# Overview
 Restaurant app inspiration demo for Android from uplabs.
 https://www.uplabs.com/posts/restaurant-app-for-android
 
@@ -34,22 +34,6 @@ As I mentioned before I've used MVP architecture as follows:
     │   ├── menu           # has MenuActivity and it's presenter and contract.
     │   ├── model          # has all view models only.
     │   ├── .....          # has other activities like AboutActivity, HomeActivity and ContactActivity.
-
-# Task Requirements:
-I've selected this [design](https://www.uplabs.com/posts/restaurant-app-for-android) and tried to find all the required files that match the design spirt, also I've added two screens to it (Menu & Contact) to make the design complete.
-
-I've created an offline API reponse you can find under assets folder, this is used when the API server is not available which I am using on this project as the main data source.
-
-I've created a design mockup for the project and completed all the design requirements and project requirement except the following I couldn't manage to finish them due to my time availability, those tasks are:
-* Title Slide up and down animation in HomeActivity.
-* Phone Call Icon Slide up and down animation in HomeActivity.
-* Change preview ImageView to ViewPager in AboutActivity, and Add Fade animation to ViewPager AboutFragment.
-* Add Fade animation to numbers when selecting meal.
-* Complete ContactActivity design.
-
-# Bonuses: 
-I've included 2 screen as I mentioned before to complete the app requirements (Menu & Contact) screens.
-Also I will try to finish the above missing requirements on another branch, then I will update this README as well so you can take a look on what I will do.
 
 # Mockups:
 ![alt text](https://raw.githubusercontent.com/mfathy/La-Delice-Android/master/art/1531695753932.jpg "Mockups")
